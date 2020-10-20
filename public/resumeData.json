@@ -4,7 +4,7 @@
     "occupation": "Web Developer",
     "description": "I enjoy and excel at functional programming with emphasis on the back-end of production.",
     "image": "profile.jpeg",
-    "bio": " ",
+    "bio": "I am a graduate of the University of Colorado at Boulder with a BA in Mathematics. I then completed a 6-month bootcamp at the University of Denver focusing on Full-Stack development. I am trying to break into the programming world by any means necessary",
     "contactmessage": "Please feel free to contact me with questions.",
     "email": "timothy.potts@colorado.edu",
     "phone": "831.454.6239",
@@ -20,12 +20,12 @@
     "social": [
       {
         "name": "linkedin",
-        "url": "",
+        "url": "https://www.linkedin.com/in/tim-potts-1b6213158/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "github",
-        "url": "https://github.com/Dondean21",
+        "url": "https://github.com/timmypotts",
         "className": "fa fa-github"
       }
     ]
